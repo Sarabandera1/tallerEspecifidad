@@ -1,0 +1,12 @@
+#top h1{
+    color:white;
+}
+#footer{
+    color: gray
+}
+.content .highlight{
+    color: red;
+}
+body{
+    background-color: aquamarine;
+}
